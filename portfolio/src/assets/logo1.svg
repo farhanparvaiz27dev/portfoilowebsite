@@ -1,0 +1,14 @@
+<svg width="109" height="57" viewBox="0 0 109 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="109" height="57" rx="6" fill="white"/>
+  <path d="M68 42.39C68 41.3438 68.9096 40.53 69.9493 40.6459L101.4 44.23C102.44 44.347 103.2 45.2331 103.2 46.29V49.99C103.2 51.0362 102.29 51.85 101.25 51.7341L69.8 48.15C68.76 48.0331 68 47.147 68 46.09V42.39Z" fill="url(#paint0_linear)"/>
+  <!-- Main name text -->
+  <g transform="translate(4,9)">
+    <text x="0" y="34" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="white">FARHAN</text>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="109" y2="57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DF8908"/>
+      <stop offset="1" stop-color="#B415FF"/>
+    </linearGradient>
+  </defs>
+</svg>
